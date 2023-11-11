@@ -1,3 +1,3 @@
-module fibonacciseries
+module github.com/IamCarlosA/fibonacciseries
 
-go 1.21
+go 1.21.3
